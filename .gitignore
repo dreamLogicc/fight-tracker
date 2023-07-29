@@ -1,0 +1,6 @@
+/venv
+/deep_sort
+/model_data
+/__pycache__
+*.mp4
+*.pt
